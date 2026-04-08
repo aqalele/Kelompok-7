@@ -1,0 +1,30 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "georgia", sans-serif;
+    font-weight: gold;
+    color:white;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: left;
+}
+p2 {
+    text-align: center;
+}
+body {background-color:khaki;
+      border:2px solid yellowgreen;}
+ P {font-size: 12px;
+    font-family:georgia;}
+ #P2 {color: red;
+      text-align: center;}
+
+ul {list-style-type: none;
+border: 5px solid yellow;
+background-color: beige;}
+li {display:inline;
+    padding: 8px;}
+ul {text-align: center;}

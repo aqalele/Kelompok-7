@@ -1,30 +1,34 @@
 /* Place your CSS styles in this file */
-
+li {color: white;}
 h1 {
     text-align: center;
     font-family: "georgia", sans-serif;
     font-weight: gold;
     color:white;
 }
+marquee {color: white;}
 h2 {
     text-align: center;
+    color: white;
 }
 p {
     text-align: left;
+    color: white;
 }
 p2 {
     text-align: center;
+    color: white;
 }
-body {background-color:khaki;
-      border:2px solid yellowgreen;}
+body {background-color:maroon;
+      border:2px solid white;}
  P {font-size: 12px;
     font-family:georgia;}
  #P2 {color: red;
       text-align: center;}
 
 ul {list-style-type: none;
-border: 5px solid yellow;
-background-color: beige;}
+border: 5px solid gainsboro;
+background-color: maroon;}
 li {display:inline;
     padding: 8px;}
 ul {text-align: center;}
